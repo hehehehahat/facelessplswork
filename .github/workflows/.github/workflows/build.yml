@@ -28,3 +28,4 @@ jobs:
           name: FacelessEXE
           path: dist/faceless_ui.exe
           retention-days: 1
+# trigger build
